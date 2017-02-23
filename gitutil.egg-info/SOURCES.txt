@@ -1,0 +1,7 @@
+setup.py
+gitutil/__init__.py
+gitutil.egg-info/PKG-INFO
+gitutil.egg-info/SOURCES.txt
+gitutil.egg-info/dependency_links.txt
+gitutil.egg-info/not-zip-safe
+gitutil.egg-info/top_level.txt
